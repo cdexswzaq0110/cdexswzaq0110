@@ -39,6 +39,7 @@
 | [**Arduino Obstacle Avoidance**](https://github.com/cdexswzaq0110/Arduino_obstacle_avoidance) | An Arduino-based autonomous robot that detects and avoids obstacles using ultrasonic sensors. | Arduino, C++ |
 | [**ML**](https://github.com/cdexswzaq0110/ML) | Machine learning experiments and implementations, including classification and regression models. | Python, scikit-learn |
 | [**DL**](https://github.com/cdexswzaq0110/DL) | Deep learning practice using neural networks for tasks such as image recognition. | Python, TensorFlow / PyTorch |
+| [**DSA**](https://github.com/cdexswzaq0110/DSA) | A collection of data structures, algorithms, and competitive programming solutions. Includes classic problems and categorized topics such as graph theory, dynamic programming, and greedy algorithms. | C++, Python |
 
 ---
 
