@@ -1,4 +1,4 @@
-<h1 align="center">GitHub Personal Info</h1> <h3 align="center">Aspiring Software Developer | Java / Python / C++ /C# | AI, Algorithms & Embedded Systems</h3>
+<h1 align="center">GitHub Personal Info</h1> <h3 align="center">Aspiring Software Developer | C / C++ / Java / Python /C# | AI, Algorithms & Embedded Systems</h3>
 
 ---
 
