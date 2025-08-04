@@ -4,10 +4,12 @@
 
 ### 🧑‍🎓 About Me
 
-🎓 I’m currently an undergraduate student, expected to graduate this year.  
-🔍 I’m actively seeking a full-time software development position.  
-💡 Passionate about algorithms, embedded systems, and machine learning.  
-🌱 Currently learning full-stack development and AI model deployment.
+🎓 Bachelor’s in Information Management  
+💻 Completed extensive coursework in Computer Science, including Algorithms, Operating Systems, Automata Theory, and Mathematical Foundations of Machine Learning  
+🔍 Actively seeking a full-time software development position  
+💡 Passionate about algorithms, embedded systems, and machine learning  
+🌱 Currently learning full-stack development and AI model deployment  
+🧠 Programming languages: C, C++, Java, Python  
 
 ---
 
