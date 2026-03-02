@@ -1,61 +1,73 @@
-<h1 align="center">GitHub Personal Info</h1> <h3 align="center">Aspiring Software Developer | C / C++ / Java / Python /C# | AI, Algorithms & Embedded Systems</h3>
+<h1 align="center">Huang Hua Yu</h1>
+<h3 align="center">Algorithm-Focused Software Engineer | C++ / Python | AI & Systems</h3>
 
 ---
 
 ### 👨‍🎓 About Me
 
-🎓 Bachelor’s in Information Management  
-💻 Completed extensive coursework in Computer Science, including Algorithms, Operating Systems, Automata Theory, and Mathematical Foundations of Machine Learning  
-🔍 Actively seeking a full-time software development position  
-💡 Passionate about algorithms, embedded systems, and machine learning  
-🌱 Currently learning full-stack development and AI model deployment  
+🎓 Bachelor’s in Information Management (Strong CS Foundation)  
+📚 Solid training in Algorithms, Data Structures, Operating Systems, Automata Theory, and Mathematical Foundations of Machine Learning  
+🎯 Career Goal: Algorithm Engineer / System-Level Software Engineer  
+💡 Focused on computational efficiency, algorithm design, and AI model optimization  
+🚀 Currently strengthening full-stack integration skills and AI model deployment capabilities  
+
+I am deeply interested in understanding how algorithms scale, how systems behave under constraints, and how to bridge theory with real-world performance.
 
 ---
 
-### 💻 Skills & Tools
+### 💻 Core Technical Strengths
 
-#### 🛠 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=c-sharp&logoColor=white)
+#### 🧠 Algorithm & CS Foundations
+- Data Structures (Tree, Graph, Heap, Union-Find, etc.)
+- Graph Theory & Shortest Path Algorithms
+- Dynamic Programming
+- Greedy & Divide-and-Conquer
+- Complexity Analysis & Optimization Thinking
 
-#### 🌐 Domain Knowledge
-- Discrete Mathematics, Automata Theory, Data Structures, Algorithms
-- Artificial Intelligence, Machine Learning, Deep Learning
-- Software Engineering, Agile Development, System Design
-- Network Planning (CCNA), Cloud Services (AWS), Operating Systems
-- Object-Oriented Programming, Cybersecurity
+#### ⚙️ Systems & Engineering
+- Operating Systems Concepts
+- Memory Management Awareness
+- Embedded Systems Development (Arduino / Microcontrollers)
+- Network Fundamentals (CCNA-level knowledge)
 
-#### 🌍 Languages
-- Mandarin Chinese (Native)
-- English (Intermediate)
-
----
-
-### 🚀 Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [**Arduino Obstacle Avoidance**](https://github.com/cdexswzaq0110/Arduino_obstacle_avoidance) | An Arduino-based autonomous robot that detects and avoids obstacles using ultrasonic sensors. | Arduino, C++ |
-| [**ML**](https://github.com/cdexswzaq0110/ML) | Machine learning experiments and implementations, including classification and regression models. | Python, scikit-learn |
-| [**DL**](https://github.com/cdexswzaq0110/DL) | Deep learning practice using neural networks for tasks such as image recognition. | Python, TensorFlow / PyTorch |
-| [**DSA**](https://github.com/cdexswzaq0110/DSA) | A collection of data structures, algorithms, and competitive programming solutions. Includes classic problems and categorized topics such as graph theory, dynamic programming, and greedy algorithms. | C++ |
+#### 🤖 AI & Machine Learning
+- Machine Learning (Classification, Regression)
+- Deep Learning Fundamentals
+- Model Training & Evaluation
+- AI Model Deployment (Learning in Progress)
 
 ---
 
-### 📊 GitHub Stats
+### 💻 Programming Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cdexswzaq0110&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdexswzaq0110&layout=compact&theme=tokyonight">
-</p>
-
+C++ (Primary for Algorithms & Performance)  
+Python (AI & Rapid Prototyping)  
+C (System-Level Understanding)  
+Java  
+C#  
 
 ---
 
-### 📫 Contact Me
+### 🚀 Selected Projects
 
-- GitHub: [github.com/cdexswzaq0110](https://github.com/cdexswzaq0110)  
-- Email: cdexswzaq0110@gmail.com
+| Project | Description | Focus |
+|--------|-------------|-------|
+| **DSA** | Structured implementation of data structures & competitive programming problems | Algorithmic Thinking |
+| **Arduino Distance System** | ESP8266-based distance measurement with low-pass filtering & real-time web server display | Embedded Systems + Signal Processing |
+| **ML / DL Repositories** | Machine learning & neural network experiments | AI Foundations |
+
+---
+
+### 📈 Technical Direction
+
+- High-performance algorithm implementation (C++)
+- Optimization techniques & computational complexity refinement
+- AI model efficiency improvement
+- Bridging algorithm theory with scalable systems
+
+---
+
+### 📫 Contact
+
+GitHub: github.com/cdexswzaq0110  
+Email: cdexswzaq0110@gmail.com  
