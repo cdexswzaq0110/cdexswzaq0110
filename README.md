@@ -69,5 +69,5 @@ C#
 
 ### 📫 Contact
 
-GitHub: github.com/cdexswzaq0110  
-Email: cdexswzaq0110@gmail.com  
+- GitHub: [github.com/cdexswzaq0110](https://github.com/cdexswzaq0110)
+- Email: cdexswzaq0110@gmail.com  
