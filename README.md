@@ -26,6 +26,9 @@ I am deeply interested in understanding how algorithms scale, how systems behave
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/cdexswzaq0110?theme=dark&font=Baloo&ext=activity&border=0&radius=20" />
 </p>
+<p align="center">
+  <a href="https://leetcode.com/u/cdexswzaq0110/">🔗 View My LeetCode Profile</a>
+</p>
 
 #### ⚙️ Systems & Engineering
 - Operating Systems Concepts
