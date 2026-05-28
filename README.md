@@ -12,7 +12,6 @@ Repo: cdexswzaq0110/cdexswzaq0110
 
 <p align="center">
   <b>Always learning. Always building.</b><br/>
-  <sub>Machine Learning · Algorithms · Software Engineering</sub>
 </p>
 
 <p align="center">
