@@ -5,7 +5,7 @@ Repo: cdexswzaq0110/cdexswzaq0110
 -->
 
 <p align="center">
-  <img align="top" src="https://raw.githubusercontent.com/cdexswzaq0110/cdexswzaq0110/main/research-notebook-header1.svg" alt="Huang Hua Yu - Aspiring Machine Learning Engineer" width="58%" />
+  <img align="top" src="https://raw.githubusercontent.com/cdexswzaq0110/cdexswzaq0110/main/research-notebook-header.svg" alt="Huang Hua Yu - Aspiring Machine Learning Engineer" width="58%" />
   &nbsp;&nbsp;&nbsp;
   <img align="top" src="./megumi.webp" alt="Megumi Katou GIF" width="35%" />
 </p>
