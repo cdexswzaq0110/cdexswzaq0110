@@ -156,15 +156,6 @@ Software Engineering
 
 ---
 
-## GitHub Snapshot
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cdexswzaq0110&show_icons=true&theme=default&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdexswzaq0110&layout=compact&theme=default&hide_border=true" />
-</p>
-
----
-
 ## Engineering Statement
 
 I believe strong machine learning engineers should understand not only how to use tools, but also the principles behind them.
