@@ -1,0 +1,78 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="1198" height="318" rx="22" fill="#fbfbfa" stroke="#d8dee9" stroke-width="2"/>
+  <rect x="32" y="36" width="1136" height="1.5" fill="#d8dee9"/>
+  <text x="52" y="30" font-family="Consolas, Menlo, monospace" font-size="17" fill="#5b6472">README.md</text>
+
+  <!-- Left content -->
+  <text x="62" y="112" font-family="Georgia, 'Times New Roman', serif" font-size="56" fill="#1f2937">Huang Hua Yu</text>
+  <text x="64" y="154" font-family="Inter, Arial, sans-serif" font-size="25" fill="#2563eb">Aspiring Machine Learning Engineer</text>
+  <text x="64" y="198" font-family="Inter, Arial, sans-serif" font-size="19" fill="#374151">
+    Machine Learning · Algorithms · C++ · Python · MLOps Fundamentals
+  </text>
+  <text x="64" y="232" font-family="Inter, Arial, sans-serif" font-size="17" fill="#6b7280">
+    Building reproducible ML pipelines and strengthening CS fundamentals.
+  </text>
+
+  <!-- Tags -->
+  <rect x="64" y="265" width="150" height="32" rx="16" fill="#eff6ff" stroke="#bfdbfe"/>
+  <text x="86" y="287" font-family="Inter, Arial, sans-serif" font-size="15" fill="#1d4ed8">Machine Learning</text>
+  <rect x="228" y="265" width="115" height="32" rx="16" fill="#f8fafc" stroke="#cbd5e1"/>
+  <text x="253" y="287" font-family="Inter, Arial, sans-serif" font-size="15" fill="#334155">Algorithms</text>
+  <rect x="357" y="265" width="89" height="32" rx="16" fill="#f8fafc" stroke="#cbd5e1"/>
+  <text x="385" y="287" font-family="Inter, Arial, sans-serif" font-size="15" fill="#334155">MLOps</text>
+  <rect x="460" y="265" width="75" height="32" rx="16" fill="#f8fafc" stroke="#cbd5e1"/>
+  <text x="483" y="287" font-family="Inter, Arial, sans-serif" font-size="15" fill="#334155">IoT</text>
+
+  <!-- Neural network diagram -->
+  <g transform="translate(650,58)">
+    <!-- edges: input to hidden1 -->
+    <line x1="40" y1="40" x2="170" y2="24" stroke="#9ca3af" stroke-width="2"/>
+    <line x1="40" y1="40" x2="170" y2="82" stroke="#c0c7d1" stroke-width="2"/>
+    <line x1="40" y1="40" x2="170" y2="140" stroke="#d1d5db" stroke-width="2"/>
+
+    <line x1="40" y1="100" x2="170" y2="24" stroke="#c0c7d1" stroke-width="2"/>
+    <line x1="40" y1="100" x2="170" y2="82" stroke="#2563eb" stroke-width="2.4"/>
+    <line x1="40" y1="100" x2="170" y2="140" stroke="#c0c7d1" stroke-width="2"/>
+
+    <line x1="40" y1="160" x2="170" y2="24" stroke="#d1d5db" stroke-width="2"/>
+    <line x1="40" y1="160" x2="170" y2="82" stroke="#c0c7d1" stroke-width="2"/>
+    <line x1="40" y1="160" x2="170" y2="140" stroke="#9ca3af" stroke-width="2"/>
+
+    <!-- edges: hidden1 to hidden2 -->
+    <line x1="170" y1="24" x2="300" y2="54" stroke="#d1d5db" stroke-width="2"/>
+    <line x1="170" y1="24" x2="300" y2="126" stroke="#c0c7d1" stroke-width="2"/>
+
+    <line x1="170" y1="82" x2="300" y2="54" stroke="#2563eb" stroke-width="2.4"/>
+    <line x1="170" y1="82" x2="300" y2="126" stroke="#2563eb" stroke-width="2.4"/>
+
+    <line x1="170" y1="140" x2="300" y2="54" stroke="#c0c7d1" stroke-width="2"/>
+    <line x1="170" y1="140" x2="300" y2="126" stroke="#d1d5db" stroke-width="2"/>
+
+    <!-- edges: hidden2 to output -->
+    <line x1="300" y1="54" x2="430" y2="82" stroke="#2563eb" stroke-width="2.4"/>
+    <line x1="300" y1="126" x2="430" y2="82" stroke="#2563eb" stroke-width="2.4"/>
+
+    <!-- input layer -->
+    <circle cx="40" cy="40" r="11" fill="#e5e7eb" stroke="#374151" stroke-width="2"/>
+    <circle cx="40" cy="100" r="11" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+    <circle cx="40" cy="160" r="11" fill="#e5e7eb" stroke="#374151" stroke-width="2"/>
+
+    <!-- hidden layer 1 -->
+    <circle cx="170" cy="24" r="11" fill="#e5e7eb" stroke="#374151" stroke-width="2"/>
+    <circle cx="170" cy="82" r="12" fill="#dbeafe" stroke="#2563eb" stroke-width="2.5"/>
+    <circle cx="170" cy="140" r="11" fill="#e5e7eb" stroke="#374151" stroke-width="2"/>
+
+    <!-- hidden layer 2 -->
+    <circle cx="300" cy="54" r="12" fill="#dbeafe" stroke="#2563eb" stroke-width="2.5"/>
+    <circle cx="300" cy="126" r="12" fill="#dbeafe" stroke="#2563eb" stroke-width="2.5"/>
+
+    <!-- output layer -->
+    <circle cx="430" cy="82" r="13" fill="#dbeafe" stroke="#2563eb" stroke-width="2.8"/>
+
+    <!-- subtle labels -->
+    <text x="10" y="205" font-family="Inter, Arial, sans-serif" font-size="14" fill="#94a3b8">Input</text>
+    <text x="140" y="205" font-family="Inter, Arial, sans-serif" font-size="14" fill="#94a3b8">Hidden</text>
+    <text x="270" y="205" font-family="Inter, Arial, sans-serif" font-size="14" fill="#94a3b8">Hidden</text>
+    <text x="402" y="205" font-family="Inter, Arial, sans-serif" font-size="14" fill="#94a3b8">Output</text>
+  </g>
+</svg>
