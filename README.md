@@ -13,7 +13,7 @@ Repo: cdexswzaq0110/cdexswzaq0110
 </td>
 <td width="42%" valign="middle">
 
-<img src=".megumi.webp" alt="Megumi Katou GIF" width="100%" />
+<img src="megumi.webp" alt="Megumi Katou GIF" width="100%" />
 
 </td>
 </tr>
