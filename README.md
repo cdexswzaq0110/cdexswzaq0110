@@ -5,7 +5,7 @@ Repo: cdexswzaq0110/cdexswzaq0110
 -->
 
 <p align="center">
-  <img src="./assets/research-notebook-header.svg" alt="Huang Hua Yu - Aspiring Machine Learning Engineer" width="100%" />
+  <img src="research-notebook-header.svg" alt="Huang Hua Yu - Aspiring Machine Learning Engineer" width="100%" />
 </p>
 
 <p align="center">
