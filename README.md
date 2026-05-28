@@ -187,11 +187,3 @@ If you would like to connect, discuss machine learning, algorithms, software eng
     <img src="https://img.shields.io/badge/LinkedIn-Huang%20Hua%20Yu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/master/assets/208593.gif" width="320" alt="coding gif" />
-</p>
-
-<p align="center">
-  <b>Always learning. Always building.</b>
-</p>
