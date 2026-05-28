@@ -1,61 +1,53 @@
 <!--
-Profile README for cdexswzaq0110
-Style: Research Notebook / Machine Learning Engineer
+GitHub Profile README
+Style: Research Notebook / Clean ML Engineer
+Repo: cdexswzaq0110/cdexswzaq0110
 -->
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=cdexswzaq0110&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<p align="center">
+  <img src="./assets/research-notebook-header.svg" alt="Huang Hua Yu - Aspiring Machine Learning Engineer" width="100%" />
 </p>
 
-# Huang Hua Yu
-
-### Aspiring Machine Learning Engineer
-
-I turn data into practical solutions through **machine learning**, **algorithms**, and **experimentation**.
-
-Currently, I am building my portfolio around end-to-end machine learning projects, algorithmic problem solving, and software engineering fundamentals.
-
-<p align="left">
+<p align="center">
   <a href="https://github.com/cdexswzaq0110">
     <img src="https://img.shields.io/badge/GitHub-cdexswzaq0110-181717?style=flat&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/%E6%A8%BA%E8%A3%95-%E9%BB%83-terryh/">
     <img src="https://img.shields.io/badge/LinkedIn-Huang%20Hua%20Yu-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=cdexswzaq0110&label=Profile%20views&color=2563eb&style=flat" />
 </p>
 
 ---
 
-## 1. About Me / What I Do
+## Research Notebook
 
 <table>
 <tr>
-<td width="25%">
+<td width="62%" valign="top">
 
-### Machine Learning
+### About me
 
-Building predictive models from data.
+I am an aspiring **Machine Learning Engineer** with a strong interest in **algorithms**, **software engineering**, and **data-driven systems**.
 
-</td>
-<td width="25%">
+My current focus is building practical ML projects while strengthening the computer science foundations behind them.
 
-### Deep Learning
-
-Learning neural networks and model training.
-
-</td>
-<td width="25%">
-
-### MLOps Fundamentals
-
-Learning experiment tracking, Docker, deployment, and model workflow management.
+```txt
+Machine Learning  →  Feature Engineering  →  Model Evaluation
+Algorithms        →  Data Structures       →  Problem Solving
+Software Systems  →  Docker / Linux        →  Deployment Basics
+```
 
 </td>
-<td width="25%">
+<td width="38%" valign="top">
 
-### Algorithms & Data Structures
+### Current focus
 
-Solving problems with efficient and clean code.
+- End-to-end ML pipelines
+- Regression modeling and ensemble methods
+- Cross-validation and error analysis
+- C++ data structures and algorithms
+- Docker, Linux, Git, and MLOps fundamentals
 
 </td>
 </tr>
@@ -63,148 +55,90 @@ Solving problems with efficient and clean code.
 
 ---
 
-## 2. Research / Interest Areas
+## Featured Projects
 
-| Area | What I Focus On |
-|---|---|
-| **Regression Modeling** | From linear models to ensemble methods |
-| **Feature Engineering** | Extracting useful signals from raw data |
-| **Model Evaluation** | Cross-validation, metrics, error analysis |
-| **Deep Learning** | Neural network fundamentals and practical training |
-| **MLOps** | Experiment tracking, Docker workflow, deployment basics |
-| **Algorithms** | C++ implementations, data structures, dynamic programming, graph algorithms |
+<table>
+<tr>
+<td width="33%" valign="top">
 
----
+### Kaggle House Prices
 
-## 3. Featured Projects
+End-to-end regression pipeline for tabular data.
 
-### Kaggle House Prices - Advanced Regression Techniques
+**Focus**
 
-End-to-end regression pipeline for house price prediction.
-
-**Key topics**
-
-- Data cleaning and missing value handling
-- Exploratory data analysis
+- Data cleaning
 - Feature engineering
-- Log transformation of target variable
 - Cross-validation
-- Ridge / Lasso / ElasticNet
 - XGBoost / LightGBM / CatBoost
-- Stacking and blending models
-- Kaggle submission workflow
+- Stacking and blending
 
-**Goal**
+</td>
+<td width="33%" valign="top">
 
-Build a reproducible machine learning pipeline, not only a single model.
+### [DSA Repository](https://github.com/cdexswzaq0110/DSA)
 
----
+C++ implementations for data structures, algorithms, and competitive programming.
 
-### DSA Repository
+**Focus**
 
-C++-focused repository for data structures, algorithms, and competitive programming practice.
-
-[![DSA Repo](https://github-readme-stats.vercel.app/api/pin/?username=cdexswzaq0110&repo=DSA&theme=default)](https://github.com/cdexswzaq0110/DSA)
-
-**Topics**
-
-- Sorting algorithms
-- Trees
-- Graph algorithms
+- Trees and graphs
 - Dynamic programming
 - String matching
-- Competitive programming problems
-- CLRS-style algorithm practice
+- CLRS-style practice
+- Clean C++ implementation
+
+</td>
+<td width="33%" valign="top">
+
+### [ESP8266 Distance System](https://github.com/cdexswzaq0110/Arduino_obstacle_avoidance)
+
+IoT distance measurement system using ESP8266 and ultrasonic sensing.
+
+**Focus**
+
+- Embedded C++
+- Ultrasonic sensor
+- Low-pass filtering
+- Buzzer feedback
+- Wi-Fi web display
+
+</td>
+</tr>
+</table>
 
 ---
 
-### ESP8266 Distance Measurement System
+## Tech Stack
 
-An embedded IoT project using ESP8266 and an ultrasonic sensor for real-time distance measurement.
-
-**Features**
-
-- Ultrasonic distance sensing
-- Low-pass filter for smoothing distance data
-- Real-time buzzer feedback
-- Wi-Fi web server for distance display
-- Embedded system and IoT practice
-
----
-
-## 4. A Note from My Notebook
-
-```math
-\mathcal{L}(\theta)
-=
--\frac{1}{n}
-\sum_{i=1}^{n}
-\left[
-y_i \log(\hat{y_i}) +
-(1-y_i)\log(1-\hat{y_i})
-\right]
-+
-\lambda \lVert \theta \rVert^2
-```
-
-> Balancing model performance and generalization is the key to building models that matter.
-
----
-
-## 5. Tech Stack
-
-### Programming Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,cs" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,cs,git,github,linux,docker,mysql,vscode" />
 </p>
 
-### Machine Learning / Data Science
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white" />
-  <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat" />
-  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-2563eb?style=flat" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-</p>
-
-### Development Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,mysql,vscode" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat" />
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat" />
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat" />
 </p>
 
 ---
 
-## 6. GitHub Snapshot
+## Learning Map
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cdexswzaq0110&show_icons=true&theme=default&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdexswzaq0110&layout=compact&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cdexswzaq0110&theme=default&hide_border=true" />
-</p>
-
----
-
-## 7. Current Learning Roadmap
-
-```text
-Machine Learning Engineering
+```txt
+ML Engineering
 ├── Data preprocessing
 ├── Feature engineering
-├── Model training
-├── Cross-validation
+├── Model training and validation
 ├── Ensemble learning
 ├── Experiment tracking
 └── Deployment fundamentals
 
-Computer Science Fundamentals
+Computer Science
 ├── Linear Algebra
 ├── Discrete Mathematics
 ├── Data Structures
@@ -217,25 +151,25 @@ Software Engineering
 ├── Linux
 ├── Docker
 ├── MySQL
-├── Backend fundamentals
-└── Cloud architecture basics
+└── Backend fundamentals
 ```
 
 ---
 
-## 8. Personal Statement
+## GitHub Snapshot
 
-I believe strong machine learning engineers should not only know how to use tools, but also understand the principles behind them.
-
-My current goal is to become an engineer who can combine:
-
-- solid programming ability,
-- algorithmic thinking,
-- mathematical foundations,
-- practical machine learning experience,
-- and real-world software deployment skills.
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cdexswzaq0110&show_icons=true&theme=default&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdexswzaq0110&layout=compact&theme=default&hide_border=true" />
+</p>
 
 ---
+
+## Engineering Statement
+
+I believe strong machine learning engineers should understand not only how to use tools, but also the principles behind them.
+
+My goal is to grow into an engineer who can combine **programming ability**, **algorithmic thinking**, **mathematical foundations**, and **real-world ML system development**.
 
 <p align="center">
   <b>Always learning. Always building.</b>
