@@ -4,20 +4,22 @@ Style: Research Notebook / Clean ML Engineer
 Repo: cdexswzaq0110/cdexswzaq0110
 -->
 
-<table>
-<tr>
-<td width="58%" valign="middle">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cdexswzaq0110/cdexswzaq0110/main/research-notebook-header.svg" alt="Huang Hua Yu - Aspiring Machine Learning Engineer" width="58%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="megumi.webp" alt="Megumi Katou GIF" width="35%" />
+</p>
 
-<img src="https://raw.githubusercontent.com/cdexswzaq0110/cdexswzaq0110/main/research-notebook-header.svg" alt="Huang Hua Yu - Aspiring Machine Learning Engineer" width="100%" />
+<p align="center">
+  <a href="https://github.com/cdexswzaq0110">
+    <img src="https://img.shields.io/badge/GitHub-cdexswzaq0110-181717?style=flat&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/%E6%A8%BA%E8%A3%95-%E9%BB%83-terryh/">
+    <img src="https://img.shields.io/badge/LinkedIn-Huang%20Hua%20Yu-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=cdexswzaq0110&label=Profile%20views&color=2563eb&style=flat" />
+</p>
 
-</td>
-<td width="42%" valign="middle">
-
-<img src="megumi.webp" alt="Megumi Katou GIF" width="100%" />
-
-</td>
-</tr>
-</table>
 
 <p align="center">
   <a href="https://github.com/cdexswzaq0110">
