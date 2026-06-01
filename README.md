@@ -34,9 +34,9 @@ Repo: cdexswzaq0110/cdexswzaq0110
 
 ### About me
 
-I am an aspiring **Machine Learning Engineer** with a strong interest in **algorithms**, **software engineering**, and **data-driven systems**.
+I build practical machine learning projects with a focus on tabular modeling, feature engineering, model evaluation, and clean Python/C++ implementation.
 
-My current focus is building practical ML projects while strengthening the computer science foundations behind them.
+My current goal is to become a Machine Learning Engineer who can connect data preparation, model training, validation, and deployment into reproducible engineering workflows.
 
 ```txt
 Machine Learning  →  Feature Engineering  →  Model Evaluation
