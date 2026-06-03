@@ -67,17 +67,17 @@ Software Systems  →  Docker / Linux        →  Deployment Basics
 <tr>
 <td width="33%" valign="top">
 
-### Kaggle House Prices
+### [Build Moat System Design Portfolio](https://github.com/cdexswzaq0110/build-moat-system-design-portfolio)
 
-End-to-end regression pipeline for tabular data.
+A system design portfolio project focused on backend engineering, API design, and practical software architecture.
 
 **Focus**
 
-- Data cleaning
-- Feature engineering
-- Cross-validation
-- XGBoost / LightGBM / CatBoost
-- Stacking and blending
+- System design practice
+- Backend architecture
+- API design
+- Engineering documentation
+- Portfolio project development
 
 </td>
 <td width="33%" valign="top">
