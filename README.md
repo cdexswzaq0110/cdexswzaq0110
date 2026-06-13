@@ -45,7 +45,7 @@ Software Systems  →  Docker / Linux        →  Deployment Basics
 ```
 
 </td>
-<td width="38%" valign="top">
+<td width="33%" valign="top">
 
 ### Current focus
 
@@ -78,7 +78,7 @@ A system design portfolio project focused on backend engineering, API design, an
 - API design
 - Engineering documentation
 - Portfolio project development
-
+<tr>
 
 </td>
 <td width="33%" valign="top">
