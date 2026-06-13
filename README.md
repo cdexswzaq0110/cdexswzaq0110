@@ -65,7 +65,7 @@ Software Systems  →  Docker / Linux        →  Deployment Basics
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="38%" valign="top">
 
 ### [Build Moat System Design Portfolio](https://github.com/cdexswzaq0110/build-moat-system-design-portfolio)
 
