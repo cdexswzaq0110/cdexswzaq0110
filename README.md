@@ -82,7 +82,7 @@ A system design portfolio project focused on backend engineering, API design, an
 </td>
 <td width="33%" valign="top">
 
-### [DSA Repository](https://github.com/cdexswzaq0110/DSA)
+### [Data Structures and Algorithms](https://github.com/cdexswzaq0110/DSA)
 
 C++ implementations for data structures, algorithms, and competitive programming.
 
