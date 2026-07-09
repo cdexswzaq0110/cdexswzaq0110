@@ -4,8 +4,8 @@ Style: Research Notebook / Clean ML Engineer
 Repo: cdexswzaq0110/cdexswzaq0110
 -->
 
-<p align="center">
-  <img src="./research-notebook-header1.png" alt="Huang Hua Yu - Aspiring Machine Learning Engineer" height="350" />
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/cdexswzaq0110/cdexswzaq0110/main/research-notebook-header1.svg" alt="Huang Hua Yu - Aspiring Machine Learning Engineer" height="350" /> 
   &nbsp;&nbsp;&nbsp;
   <img src="./megumi.webp" alt="Megumi Katou GIF" height="260" />
 </p>
