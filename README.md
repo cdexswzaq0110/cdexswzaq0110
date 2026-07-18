@@ -118,7 +118,7 @@ IoT distance measurement system using ESP8266 and ultrasonic sensing.
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,cs,fastapi,machinelearning,deeplearning,opencv,git,github,linux,docker,mysql,postgresql,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,cs,fastapi,anaconda,tensorflow,opencv,git,github,linux,docker,mysql,postgresql,vscode,visualstudio" />
 </p>
 
 <p align="center">
