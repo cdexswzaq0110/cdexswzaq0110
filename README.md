@@ -111,6 +111,38 @@ IoT distance measurement system using ESP8266 and ultrasonic sensing.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [OrdoStack](https://github.com/cdexswzaq0110/Ordostack)
+
+A local-first daily planner that combines task scheduling, execution tracking, analytics, and ML-based duration prediction in a Dockerized multi-service system.
+
+**Focus**
+
+- FastAPI service architecture
+- Scheduling and task prioritization
+- ML duration prediction and retraining
+- MySQL and Docker Compose
+- End-to-end testing and documentation
+
+</td>
+<td width="50%" valign="top">
+
+### [Titanic ML Control Tower](https://github.com/cdexswzaq0110/titanic_restful_project)
+
+An end-to-end machine learning web application for training, comparing, versioning, and serving Titanic survival models through REST APIs.
+
+**Focus**
+
+- Scikit-learn pipelines
+- Model evaluation and GridSearchCV
+- Flask REST API and Ajax
+- Model versioning and batch prediction
+- What-if analysis and feature importance
+
+</td>
+</tr>
 </table>
 
 ---
