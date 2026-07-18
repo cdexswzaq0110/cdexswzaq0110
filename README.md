@@ -65,53 +65,6 @@ Software Systems  →  Docker / Linux        →  Deployment Basics
 
 <table>
 <tr>
-<td width="38%" valign="top">
-
-### [Build Moat System Design Portfolio](https://github.com/cdexswzaq0110/build-moat-system-design-portfolio)
-
-A system design portfolio project focused on backend engineering, API design, and practical software architecture.
-
-**Focus**
-
-- System design practice
-- Backend architecture
-- API design
-- Engineering documentation
-- Portfolio project development
-
-</td>
-<td width="33%" valign="top">
-
-### [Data Structures and Algorithms](https://github.com/cdexswzaq0110/DSA)
-
-C++ implementations for data structures, algorithms, and competitive programming.
-
-**Focus**
-
-- Trees and graphs
-- Dynamic programming
-- String matching
-- CLRS-style practice
-- Clean C++ implementation
-
-</td>
-<td width="33%" valign="top">
-
-### [ESP8266 Distance System](https://github.com/cdexswzaq0110/Arduino_obstacle_avoidance)
-
-IoT distance measurement system using ESP8266 and ultrasonic sensing.
-
-**Focus**
-
-- Embedded C++
-- Ultrasonic sensor
-- Low-pass filtering
-- Buzzer feedback
-- Wi-Fi web display
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [OrdoStack](https://github.com/cdexswzaq0110/Ordostack)
@@ -142,6 +95,56 @@ An end-to-end machine learning web application for training, comparing, versioni
 - What-if analysis and feature importance
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Build Moat System Design Portfolio](https://github.com/cdexswzaq0110/build-moat-system-design-portfolio)
+
+A system design portfolio project focused on backend engineering, API design, and practical software architecture.
+
+**Focus**
+
+- System design practice
+- Backend architecture
+- API design
+- Engineering documentation
+- Portfolio project development
+
+</td>
+<td width="50%" valign="top">
+
+### [Data Structures and Algorithms](https://github.com/cdexswzaq0110/DSA)
+
+C++ implementations for data structures, algorithms, and competitive programming.
+
+**Focus**
+
+- Trees and graphs
+- Dynamic programming
+- String matching
+- CLRS-style practice
+- Clean C++ implementation
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [ESP8266 Distance System](https://github.com/cdexswzaq0110/Arduino_obstacle_avoidance)
+
+IoT distance measurement system using ESP8266 and ultrasonic sensing.
+
+**Focus**
+
+- Embedded C++
+- Ultrasonic sensor
+- Low-pass filtering
+- Buzzer feedback
+- Wi-Fi web display
+
+</td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
