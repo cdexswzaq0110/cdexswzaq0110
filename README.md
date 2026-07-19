@@ -198,6 +198,7 @@ Software Engineering
 ├── Git / GitHub workflow
 ├── Linux
 ├── Docker
+├── PostgreSQL
 ├── MySQL
 └── Backend fundamentals
 ```
