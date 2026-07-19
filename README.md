@@ -11,9 +11,14 @@ Repo: cdexswzaq0110/cdexswzaq0110
     alt="serendipity~"
     width="100%"
   />
-  &nbsp;&nbsp;&nbsp;
+</p>
+
+---
+<p align="center"> 
+&nbsp;&nbsp;&nbsp;
   <img src="./megumi.webp" alt="Megumi Katou GIF" height="260" />
 </p>
+
 
 <p align="center">
   <b>Always learning. Always building.</b><br/>
