@@ -188,29 +188,25 @@ IoT distance measurement system using ESP8266 and ultrasonic sensing.
 ## Learning Map
 
 ```txt
-ML Engineering
-├── Data preprocessing
-├── Feature engineering
-├── Model training and validation
-├── Ensemble learning
-├── Experiment tracking
-└── Deployment fundamentals
+AI / ML Engineering
+├── Data analysis, preprocessing and visualization
+├── Feature engineering and dimensionality reduction
+├── Machine learning, validation and ensemble methods
+├── Deep learning, CNNs and transfer learning
+├── NLP, transformers, embeddings and semantic search
+├── LLM applications, RAG, agents and evaluation
+└── MLOps, APIs, Docker and model monitoring
 
-Computer Science
-├── Linear Algebra
-├── Discrete Mathematics
-├── Data Structures
-├── Algorithms
-├── Operating Systems
-└── Computer Architecture
+Computer Science Foundations
+├── Data Structures & Algorithms
+├── Linear Algebra & Discrete Mathematics
+└── Operating Systems & Computer Architecture
 
 Software Engineering
-├── Git / GitHub workflow
-├── Linux
-├── Docker
-├── PostgreSQL
-├── MySQL
-└── Backend fundamentals
+├── Git / GitHub, Linux and Docker
+├── Backend development and system design
+├── PostgreSQL and MySQL
+└── Testing and reproducible development
 ```
 
 ---
