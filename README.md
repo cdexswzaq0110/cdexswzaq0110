@@ -4,14 +4,14 @@ Style: Research Notebook / Clean ML Engineer
 Repo: cdexswzaq0110/cdexswzaq0110
 -->
 
-<p align="center"> 
+<!-- <p align="center">  -->
   <!-- <img src="https://raw.githubusercontent.com/cdexswzaq0110/cdexswzaq0110/main/research-notebook-header1.svg" alt="Huang Hua Yu - Aspiring Machine Learning Engineer" height="350" />  -->
-  <img
+  <!-- <img
     src="./serendipity.png"
     alt="serendipity~"
     width="100%"
   />
-</p>
+</p> -->
 
 ---
 <p align="center"> 
