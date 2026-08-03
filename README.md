@@ -70,7 +70,6 @@ Software Systems  →  Docker / Linux        →  Deployment Basics
 </table>
 
 ---
-
 ## Featured Projects
 
 <table>
@@ -106,6 +105,7 @@ An end-to-end machine learning web application for training, comparing, versioni
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -122,8 +122,7 @@ An end-to-end regression project for Kaggle House Prices, combining robust featu
 - MLflow tracking and reproducible submissions
 
 </td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
 ### [Build Moat System Design Portfolio](https://github.com/cdexswzaq0110/build-moat-system-design-portfolio)
 
@@ -138,6 +137,9 @@ A system design portfolio project focused on backend engineering, API design, an
 - Portfolio project development
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### [Data Structures and Algorithms](https://github.com/cdexswzaq0110/DSA)
@@ -153,8 +155,6 @@ C++ implementations for data structures, algorithms, and competitive programming
 - Clean C++ implementation
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [ESP8266 Distance System](https://github.com/cdexswzaq0110/Arduino_obstacle_avoidance)
@@ -170,12 +170,10 @@ IoT distance measurement system using ESP8266 and ultrasonic sensing.
 - Wi-Fi web display
 
 </td>
-<td width="50%" valign="top"></td>
 </tr>
 </table>
 
 ---
-
 ## Tech Stack
 
 <p align="center">
