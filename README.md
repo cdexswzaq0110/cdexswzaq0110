@@ -109,6 +109,22 @@ An end-to-end machine learning web application for training, comparing, versioni
 <tr>
 <td width="50%" valign="top">
 
+### [House Prices ML Pipeline](https://github.com/cdexswzaq0110/House-Prices-Advanced-Regression-Techniques)
+
+An end-to-end regression project for Kaggle House Prices, combining robust feature engineering, strict cross-validation, model ensembling, calibration, and reproducible MLOps tracking.
+
+**Focus**
+
+- Fold-local preprocessing and feature engineering
+- Repeated stratified cross-validation
+- Lasso, XGBoost, and Huber GBR ensemble
+- Out-of-fold blending and model calibration
+- MLflow tracking and reproducible submissions
+
+</td>
+</tr>
+</table>
+
 ### [Build Moat System Design Portfolio](https://github.com/cdexswzaq0110/build-moat-system-design-portfolio)
 
 A system design portfolio project focused on backend engineering, API design, and practical software architecture.
