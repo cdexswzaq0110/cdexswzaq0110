@@ -91,6 +91,24 @@ A local-first daily planner that combines task scheduling, execution tracking, a
 </td>
 <td width="50%" valign="top">
 
+### [VeloGuard](https://github.com/cdexswzaq0110/VeloGuard)
+
+An uncertainty-aware bike-share forecasting and rebalancing decision system that turns station-level demand predictions into operational risk scores and capacity-safe transfer recommendations.
+
+**Focus**
+
+- Station-level demand forecasting
+- Time-aware validation and uncertainty estimation
+- Live GBFS ingestion and station reconciliation
+- Constraint-aware rebalancing decisions
+- FastAPI and React operator dashboard
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 ### [Titanic ML Control Tower](https://github.com/cdexswzaq0110/titanic_restful_project)
 
 An end-to-end machine learning web application for training, comparing, versioning, and serving Titanic survival models through REST APIs.
@@ -104,9 +122,6 @@ An end-to-end machine learning web application for training, comparing, versioni
 - What-if analysis and feature importance
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### [House Prices ML Pipeline](https://github.com/cdexswzaq0110/House-Prices-Advanced-Regression-Techniques)
@@ -122,6 +137,9 @@ An end-to-end regression project for Kaggle House Prices, combining robust featu
 - MLflow tracking and reproducible submissions
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### [Build Moat System Design Portfolio](https://github.com/cdexswzaq0110/build-moat-system-design-portfolio)
@@ -137,9 +155,6 @@ A system design portfolio project focused on backend engineering, API design, an
 - Portfolio project development
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### [Data Structures and Algorithms](https://github.com/cdexswzaq0110/DSA)
@@ -155,6 +170,9 @@ C++ implementations for data structures, algorithms, and competitive programming
 - Clean C++ implementation
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### [ESP8266 Distance System](https://github.com/cdexswzaq0110/Arduino_obstacle_avoidance)
@@ -168,6 +186,19 @@ IoT distance measurement system using ESP8266 and ultrasonic sensing.
 - Low-pass filtering
 - Buzzer feedback
 - Wi-Fi web display
+
+</td>
+<td width="50%" valign="top">
+
+### [More Projects](https://github.com/cdexswzaq0110?tab=repositories)
+
+Additional machine learning, deep learning, and engineering workflow projects.
+
+**Repositories**
+
+- [deep-learning-labs](https://github.com/cdexswzaq0110/deep-learning-labs) — Deep learning projects and experiments
+- [machine-learning-labs](https://github.com/cdexswzaq0110/machine-learning-labs) — Machine learning practice and experiments
+- [Serendipity — Epiphany](https://github.com/cdexswzaq0110/Serendipity-Epiphany) — Reusable AI-assisted engineering workflows
 
 </td>
 </tr>
