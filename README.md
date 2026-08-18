@@ -36,7 +36,7 @@ Ship clearly.</b><br/>
 </p>
 
 <p align="center">
-  <a href="[https://github.com/cdexswzaq0110](https://cdexswzaq0110.github.io/)">
+  <a href="https://cdexswzaq0110.github.io/">
     <img src="https://img.shields.io/badge/GitHub-cdexswzaq0110-181717?style=flat&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/%E6%A8%BA%E8%A3%95-%E9%BB%83-terryh/">
