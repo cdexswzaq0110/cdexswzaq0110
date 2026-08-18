@@ -29,11 +29,7 @@ Repo: cdexswzaq0110/cdexswzaq0110
 </p>
 
 
-<p align="center">
-  <b>Build systems.
-Study deeply.
-Ship clearly.</b><br/>
-</p>
+<b>Build systems.<br/>Study deeply.<br/>Ship clearly.</b>
 
 <p align="center">
   <a href="https://cdexswzaq0110.github.io/">
