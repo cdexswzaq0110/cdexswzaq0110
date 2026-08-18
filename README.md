@@ -25,7 +25,7 @@ Repo: cdexswzaq0110/cdexswzaq0110
 ---
 <p align="center"> 
 &nbsp;&nbsp;&nbsp;
-  <img src="./megumi.webp" alt="Megumi Katou GIF" height="430" />
+  <img src="./megumi.webp" alt="Megumi Katou GIF" height="560" />
 </p>
 
 
