@@ -219,7 +219,7 @@ Additional machine learning, deep learning, and engineering workflow projects.
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,cs,fastapi,anaconda,tensorflow,opencv,git,github,linux,docker,mysql,postgresql,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,cs,fastapi,anaconda,tensorflow,opencv,git,github,linux,docker,mysql,postgresql" />
 </p>
 
 <p align="center">
@@ -274,7 +274,7 @@ I believe strong machine learning engineers should understand not only how to us
 My goal is to grow into an engineer who can combine **programming ability**, **algorithmic thinking**, **mathematical foundations**, and **real-world ML system development**.
 
 <p align="center">
-  <b>Always learning. Always building.</b>
+  <b>Let’s build something useful.</b>
 </p>
 
 ---
