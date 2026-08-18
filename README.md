@@ -30,7 +30,9 @@ Repo: cdexswzaq0110/cdexswzaq0110
 
 
 <p align="center">
-  <b>Always learning. Always building.</b><br/>
+  <b>Build systems.
+Study deeply.
+Ship clearly.</b><br/>
 </p>
 
 <p align="center">
