@@ -222,6 +222,17 @@ Additional machine learning, deep learning, and engineering workflow projects.
 </p>
 
 ---
+## Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/cdexswzaq0110/cdexswzaq0110/main/assets/terryh-snake.svg"
+    width="100%"
+    alt="Snake eating contribution cells and revealing TERRYH"
+  />
+</p>
+
+---
 ## LeetCode
 
 <p align="center">

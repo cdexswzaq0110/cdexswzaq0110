@@ -1,0 +1,60 @@
+name: Build TERRYH Snake
+
+# Rebuilds assets/terryh-snake.svg whenever the generator changes.
+# The path filter deliberately excludes the generated SVG, so the commit made
+# by this workflow can never re-trigger it.
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - scripts/gen_terryh_snake.py
+      - .github/workflows/terryh-snake.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: terryh-snake
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate SVG
+        run: python scripts/gen_terryh_snake.py
+
+      - name: Validate SVG
+        run: |
+          python - <<'PY'
+          import xml.etree.ElementTree as ET
+          from pathlib import Path
+
+          svg = Path("assets/terryh-snake.svg").read_text(encoding="utf-8")
+          ET.fromstring(svg)
+          assert "@keyframes route{" in svg, "missing snake route"
+          assert "<script" not in svg.lower(), "SVG must stay script free"
+          assert "<animate" not in svg.lower(), "SVG must stay SMIL free"
+          print("ok: %.1f KB" % (len(svg.encode()) / 1024))
+          PY
+
+      - name: Commit rebuilt SVG
+        run: |
+          if [ -z "$(git status --porcelain assets/terryh-snake.svg)" ]; then
+            echo "SVG unchanged, nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/terryh-snake.svg
+          git commit -m "chore: rebuild TERRYH snake SVG [skip ci]"
+          git push
