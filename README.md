@@ -12,6 +12,15 @@ Repo: cdexswzaq0110/cdexswzaq0110
     width="100%"
   />
 </p> -->
+---
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/cdexswzaq0110/cdexswzaq0110/main/assets/terryh-snake.svg"
+    width="100%"
+    alt="Snake eating contribution cells and revealing TERRYH"
+  />
+</p>
 
 ---
 <p align="center"> 
@@ -25,7 +34,7 @@ Repo: cdexswzaq0110/cdexswzaq0110
 </p>
 
 <p align="center">
-  <a href="https://github.com/cdexswzaq0110">
+  <a href="[https://github.com/cdexswzaq0110](https://cdexswzaq0110.github.io/)">
     <img src="https://img.shields.io/badge/GitHub-cdexswzaq0110-181717?style=flat&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/%E6%A8%BA%E8%A3%95-%E9%BB%83-terryh/">
@@ -219,17 +228,6 @@ Additional machine learning, deep learning, and engineering workflow projects.
   <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat" />
   <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat" />
   <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat" />
-</p>
-
----
-## Contribution Snake
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/cdexswzaq0110/cdexswzaq0110/main/assets/terryh-snake.svg"
-    width="100%"
-    alt="Snake eating contribution cells and revealing TERRYH"
-  />
 </p>
 
 ---
